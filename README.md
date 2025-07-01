@@ -17,8 +17,6 @@ Bu proje, kitap yönetimini kolaylaştırmak için geliştirilmiş bir web uygul
 
 Bu yapı sayesinde tablolar, alanlar ve ilişkiler net bir şekilde planlanmıştır.
 
-![Veritabanı Şeması](https://github.com/user-attachments/assets/616ce9b9-e0b6-4e3d-bb0f-5b8049a7ad2e)
-
 ---
 
 ### 2️⃣ Backend Geliştirme
