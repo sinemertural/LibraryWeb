@@ -85,7 +85,7 @@ Giriş yapan kullanıcılar anasayfaya yönlendirilir:
 
 Admin, yeni kitap ekleyebilir veya kitapları düzenleyip silebilir:
 
-![Admin Kitap Ekle](https://github.com/user-attachments/assets/b55b8e6a-c588-4f4a-97b3-fdfb3e6157f6)
+
 ![Admin Kitap Düzenle](https://github.com/user-attachments/assets/c557000e-ad06-4291-b040-4ff4eed4cc6f)
 
 Silme işleminde admin uyarı alır:
@@ -94,7 +94,7 @@ Silme işleminde admin uyarı alır:
 
 Normal kullanıcılar yalnızca kitapları görüntüler:
 
-![Kitap Liste](https://github.com/user-attachments/assets/1b756b01-55b4-4b19-8104-1596d690f038)
+![Admin Kitap Ekle](https://github.com/user-attachments/assets/b55b8e6a-c588-4f4a-97b3-fdfb3e6157f6)
 
 ---
 ## 📌 Genel Bilgilendirme
