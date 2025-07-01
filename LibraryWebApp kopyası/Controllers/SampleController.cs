@@ -1,0 +1,21 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
+
+namespace LibraryWebApp
+{
+    [ApiController]
+    [Route("api/[controller]")]
+    public class SampleController : ControllerBase
+    {
+
+        [HttpGet]
+        public IActionResult hello()
+        {
+            return Ok("Hello World");
+        }
+
+    }
+}
